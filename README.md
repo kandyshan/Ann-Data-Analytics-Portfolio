@@ -1,15 +1,17 @@
 # Data Analytics Portfolio by Ann Kandie
 
-Welcome! This is a collection of my practical projects showcasing data analytics skills using **Excel, Python, SQL, and Power BI**.
+Welcome! This is a collection of my practical projects showcasing data analytics skills using **Python, SQL, and Power BI**.
 
 ## Featured Projects
-- **[Sales Analysis with Excel](link)** — Dynamic dashboards & insights.
-- **[Customer Segmentation with Python](link)** — Data cleaning, clustering.
-- **[HR Analytics with SQL](link)** — Queries, reports, trend analysis.
-- **[Financial Dashboard with Power BI](link)** — Interactive visualizations.
+- **
+
 
 ## About Me
-Passionate Data Analyst empowering enterprises with actionable insights.  
+Hi! I’m Ann Kandie — a data, audit & risk consultant pivoting fully into data analytics & AI. I specialize in SQL, Python, and Power BI, using data to drive smarter decisions. I'm a certified PL-300: Power BI Data Analyst Associate, and currently expanding my project portfolio to showcase real-world business impact.
+
+I’m passionate about data’s potential to solve real-world challenges and I'm on a mission to empower 1 million professionals through my learning initiative, Dariska.
+
+🔗 Connect with me on LinkedIn | Explore my work below ⬇️
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/ann-kandie-121b3481/)
