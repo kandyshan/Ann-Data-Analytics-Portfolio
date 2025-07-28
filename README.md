@@ -4,7 +4,7 @@ Welcome! This is a collection of my practical projects showcasing data analytics
 
 ## Featured Projects
 - **Employee Attrition Analysis**  
-  [GitHub Repo ➝](https://github.com/kandyshan/employee-attrition-analysis)  
+  [GitHub Repo ➝](https://github.com/kandyshan/employee-attrition-dashboard)  
   An end-to-end data analysis project exploring attrition trends by department and gender using **SQL** and **Excel**. Key metrics include attrition rates, salary analysis, and performance ratings.  
   **Tools**: SQL, Excel, Power BI
 
@@ -18,4 +18,4 @@ I’m passionate about data’s potential to solve real-world challenges and I'm
 
 ## Connect
 - [LinkedIn](https://www.linkedin.com/in/ann-kandie-121b3481/)
-- [Website/Portfolio]()
+
