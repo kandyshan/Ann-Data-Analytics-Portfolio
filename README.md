@@ -9,6 +9,7 @@ Welcome! This is a collection of my practical projects showcasing data analytics
   **Tools**: SQL, Excel
   
 **2. EduPulse: Student Performance Analysis**
+
   [GitHub Repo ➝](https://github.com/kandyshan/EduPulse-Student-Performance-Analysis) 
   
   A comprehensive education analytics project simulating student, school, and academic performance data. The analysis explores trends across regions, gender, parental education, income, and boarding status using a normalized SQL star schema and rich exploratory insights in Python.
