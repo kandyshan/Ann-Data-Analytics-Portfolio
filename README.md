@@ -21,9 +21,9 @@ Welcome! This is a collection of my practical projects showcasing data analytics
   * Excel
 
 ## About Me
-Hi! I’m Ann Kandie — a data, audit & risk consultant pivoting fully into data analytics & AI. I specialize in SQL, Python, and Power BI, using data to drive smarter decisions. I'm a certified PL-300: Power BI Data Analyst Associate, and currently expanding my project portfolio to showcase real-world business impact.
+Hi! I’m Ann Kandie — a data, audit, and risk consultant pivoting fully into data analytics and AI. I specialize in SQL, Python, and Power BI, and enjoy using data to solve complex problems and enable better decisions. I'm a Microsoft Certified Power BI Data Analyst (PL-300) and actively building a project portfolio that showcases real-world business impact.
 
-I’m passionate about data’s potential to solve real-world challenges and I'm on a mission to empower 1 million professionals through my learning initiative, Dariska.
+I’m passionate about data’s potential to create meaningful change, and I thrive on empowering individuals and teams to become more data-driven. When I’m not exploring new datasets or building dashboards, you’ll probably find me reading, reflecting, or experimenting with new tools.
 
 🔗 Connect with me on LinkedIn
 
