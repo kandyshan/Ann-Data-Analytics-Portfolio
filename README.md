@@ -25,8 +25,8 @@ Hi! I’m Ann Kandie — a data, audit, and risk consultant pivoting fully into 
 
 I’m passionate about data’s potential to create meaningful change, and I thrive on empowering individuals and teams to become more data-driven. When I’m not exploring new datasets or building dashboards, you’ll probably find me reading, reflecting, or experimenting with new tools.
 
-🔗 Connect with me on LinkedIn
+🔗 Connect with me on - [LinkedIn](https://www.linkedin.com/in/ann-kandie-121b3481/)
 
-## Connect
-- [LinkedIn](https://www.linkedin.com/in/ann-kandie-121b3481/)
+
+
 
